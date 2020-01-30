@@ -1,0 +1,51 @@
+run      \\192.168.5.25
+
+seadmin@solvedge.in
+cc_tcare@ripplecare.com
+dhoni@recovery.in
+Demo@123
+csr1@solvedge.in
+Demo@123
+
+ng new ng6-proj --style=scss --routing
+ng generate module app-routing --flat --module=app
+
+
+ng serve --host 192.168.5.173 --port 8080
+192.168.5.64
+npm start -- --host 192.168.5.173 --port -- 8000
+
+
+react---
+"webpack-dev-server --open --host 192.168.5.173 --port 9000"
+"webpack-dev-server --open" normal
+
+
+http://pooja@192.168.5.150:3680/r/ngrc2.0.git
+ng g c --name trailList
+
+ctrl sft [ ]
+ctrl sft entr
+crt ent
+
+crtl i
+alt up down
+
+
+ ng generate component chat --module chat
+( produce module )
+ng generate service chat/shared/services/socket --module chat
+(move directory)
+
+ng build --prod --aot --vendorChunk --commonChunk --deleteOutputPath --buildOptimizer
+(build )
+
+npm --v
+5.6.0
+
+
+node -v
+v8.11.3
+
+
+object , index
