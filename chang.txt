@@ -1,0 +1,23 @@
+requiredIf 
+(input)
+
+
+ onPrint(){
+    let printContents, popupWin;
+    printContents = this.surveydownloadurl+this.name.name+'&patientSwfId='+window.localStorage['Puser']
+    console.log(printContents)
+    popupWin = window.open(printContents, '_blank', 'top=0,left=0,height=100%,width=auto');
+  }
+
+    if (this.bySOS) {
+      for (var j = 0; j < this.bySOS.length; j++) {
+        if (this.bySOS[j].selected == undefined) { tempArray.push({ name: this.bySOS[j].grouphospital, selected: false }); }
+        else { tempArray.push({ name: this.bySOS[j].grouphospital, selected: this.bySOS[j].selected }); }
+      }
+    }
+
+Array.from(new Set(this.npiIdList.map((itemInArray) => itemInArray.NPINo)))
+https://codeburst.io/javascript-array-distinct-5edc93501dc4
+
+sps - stryker performace solution
+se - Solvegde
